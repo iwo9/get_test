@@ -1,0 +1,5 @@
+So I've learnt allot
+VS Code has a terminal - fancy command line eh?
+I can add everything to the staging area at once - git add .
+I can add descriptive messages when commiting with the -m extension - (then it'll all have to be in speach marks)
+After committing, something may show up in git status again if it has un-committed edits
